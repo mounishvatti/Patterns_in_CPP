@@ -5,23 +5,23 @@ With the help of patterns you will be thorough with loops & nested loops.
 
 ## Happy Coding 🚀
 
-``
+```
 Pattern - 1 
 
 * * * * 
 * * * * 
 * * * * 
 * * * *
-``
+```
 
-``
+```
 Pattern - 2 
 
 * 
 * * 
 * * * 
 * * * * 
-``
+```
 
 
 

@@ -3,7 +3,7 @@
 <p>Solving patterns helps us in understanding looping concepts in any programming language.</p>
 <p>With the help of patterns you will be thorough with loops & nested loops.</p>
 
-<p style = "font-weight = 800">Note: Before solving any pattern question follow these 4 steps:</p>
+<p>Note: Before solving any pattern question follow these 4 steps:</p>
 
 1) For the outer loop, count the no. of lines i.e rows.
 2) For the inner loop, focus on the columns & connect them somehow to the rows.

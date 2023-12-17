@@ -131,3 +131,12 @@ Pattern - 13
 4 5 6 
 7 8 9 10 
 ```
+
+```
+Pattern - 14
+
+A 
+A B 
+A B C 
+A B C D 
+```

@@ -185,3 +185,12 @@ C C C
 B B 
 A 
 ```
+
+```
+Pattern - 20
+
+   A
+  ABA
+ ABCBA
+ABCDCBA
+```

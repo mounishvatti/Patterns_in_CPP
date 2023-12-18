@@ -1,4 +1,4 @@
-<h1>This repository consists of various patterns solved using C++.</h1>
+<h2>This repository consists of various patterns solved using C++.</h2>
 
 <p>Solving patterns helps us in understanding looping concepts in any programming language.</p>
 <p>With the help of patterns you will be thorough with loops & nested loops.</p>

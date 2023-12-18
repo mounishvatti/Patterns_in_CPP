@@ -140,3 +140,48 @@ A B
 A B C 
 A B C D 
 ```
+
+```
+Pattern - 15
+
+A 
+B B 
+C C C 
+D D D D 
+```
+
+```
+Pattern - 16
+
+A 
+B C 
+D E F 
+G H I J  
+```
+
+```
+Pattern - 17
+
+A B C D 
+A B C 
+A B 
+A 
+```
+
+```
+Pattern - 18
+
+A A A A 
+B B B 
+C C 
+D
+```
+
+```
+Pattern - 19
+
+D D D D 
+C C C 
+B B 
+A 
+```

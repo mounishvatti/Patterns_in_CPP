@@ -194,3 +194,23 @@ Pattern - 20
  ABCBA
 ABCDCBA
 ```
+
+```
+Pattern - 21
+
+E 
+E D 
+E D C 
+E D C B 
+E D C B A 
+```
+
+```
+Pattern - 22
+
+E 
+D E 
+C D E 
+B C D E 
+A B C D E
+```
